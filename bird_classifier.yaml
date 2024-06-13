@@ -1,7 +1,7 @@
 names:
   0: BIRDS
 nc: 1
-path: /home/krishna/Software/Rinicom/BirdClassifier/bird_classifier
-train: images/train
-val: images/val
+path: D:/datasets/bird_classifier
+train: ./images/train
+val: ./images/val
 
